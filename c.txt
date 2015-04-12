@@ -1,6 +1,6 @@
 it is the first line
 
-add a new change to test the status-3.
 
-this line will be covered
+add a new change to test the status-7.
+
 
