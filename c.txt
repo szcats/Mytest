@@ -1,8 +1,6 @@
 it is the first line
 
-<<<<<<< HEAD
 add a new change to test the status-1.
 
 this line will be covered
-=======
->>>>>>> origin/master
+
