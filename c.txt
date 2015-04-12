@@ -3,4 +3,6 @@ it is the first line
 
 add a new change to test the status-7.
 
+Fix bug 1.
+
 
